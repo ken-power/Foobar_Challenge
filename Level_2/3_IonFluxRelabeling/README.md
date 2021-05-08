@@ -24,7 +24,7 @@ A couple of special binary trees are as follows ([Strecansky, 2020](#references)
 * **Complete binary tree**: A tree that is completely filled, sans the bottom layer. The bottom layer must be filled from left to right.
 * **Perfect binary tree**: A complete binary tree in which all the interior nodes have two children and all the leaves of the tree are at the same depth or level.
 
-So a perfect binary tree is a _complete_ binary tree, but not a complete binary trees is not necessarily a _perfect_ binary tree.
+So a perfect binary tree is a _complete_ binary tree, but a complete binary trees is not necessarily a _perfect_ binary tree.
 
 In a perfect full binary tree, `l=2^h` thus `n=2^(h+1) - 1`.
 
